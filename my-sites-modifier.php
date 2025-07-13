@@ -2,6 +2,8 @@
 /*
 Plugin Name: My Sites Modifier
 Description: My Sites in WordPress admin panel with custom layout and additional features.
+Version: 1.0
+Author: Aamir@MicroSysX
 Network: true
 */
 // Enqueue Bootstrap on my-sites.php
